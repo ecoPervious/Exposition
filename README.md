@@ -12,13 +12,13 @@ _Si vous souhaitez un appui pour remixer ce corpus, contactez _[_Nicolas_](https
 
 ## Objectifs
 
-Les objectifs des expositions Fork The World sont : (1) de permettre à celles/ceux qui vivent les Tiers-Lieux de **mettre des mots** sur ce qu'ils vivent (2) de soutenir la **formulation de récits** (de) Tiers-Lieux (3) d'engager un **essaimage actif** de l'expérience _Fork The World_ avec le réseau TILIOS (Tiers-Lieux Libres et Open Sources). En filigrane, l'intention est de tester empiriquement l'hypothèse selon laquelle le fonctionnement des Tiers-Lieux est régi par **5 propriétés fondamentales** :
+Les objectifs des expositions Fork The World sont : (1) de permettre à celles/ceux qui vivent les Tiers-Lieux de **mettre des mots** sur ce qu'ils vivent (2) de soutenir la **formulation de récits** (de) Tiers-Lieux (3) d'engager un **essaimage actif** de l'expérience _Fork The World_ avec le réseau TILIOS (Tiers-Lieux Libres et Open Sources). En filigrane, l'intention est de tester empiriquement l'hypothèse selon laquelle le fonctionnement des Tiers-Lieux est régi par **5 propriétés d'organisation** :
 
-1. [Configuration sociale](https://nicolasloubet.gitbooks.io/fork-the-world/content/chapter4/configuration-sociale.html)
-2. [Patrimoine commun](https://nicolasloubet.gitbooks.io/fork-the-world/content/chapter4/patrimoine-commun.html)
-3. [Libre appropriation](https://nicolasloubet.gitbooks.io/fork-the-world/content/chapter4/libre-appropriation.html)
-4. [Émancipation par le faire](https://nicolasloubet.gitbooks.io/fork-the-world/content/chapter4/emancipation-par-le-faire.html)
-5. [Résilience et modularité](https://nicolasloubet.gitbooks.io/fork-the-world/content/chapter4/resilience-et-modularite.html)
+1. [Configuration sociale](https://github.com/WorldTrustFoundation/Exposition/blob/master/chapter4/configuration-sociale.mdl)
+2. [Patrimoine commun](https://github.com/WorldTrustFoundation/Exposition/blob/master/chapter4/patrimoine-commun.md)
+3. [Libre appropriation](https://github.com/WorldTrustFoundation/Exposition/blob/master/chapter4/libre-appropriation.md)
+4. [Émancipation par le faire](https://github.com/WorldTrustFoundation/Exposition/blob/master/chapter4/emancipation-par-le-faire.md)
+5. [Résilience et modularité](https://github.com/WorldTrustFoundation/Exposition/blob/master/chapter4/resilience-et-modularite.md)
 
 NB : pour accompagner l'essaimage, un '[label tiers-lieux](https://github.com/nicolasloubet/auto-label-tiers-lieux) \(attribué entre pairs\) est soumis. Il repose sur un diagnostic de **5 propriétés d'organisation** et sera porté \(dans un premier temps\) sur [Communecter](https://www.communecter.org).
 
