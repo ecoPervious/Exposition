@@ -2,9 +2,12 @@
 
 Sous l’impulsion des "co-commissaires" [Yoann Duriaux](http://www.yoann-duriaux.fr/) (OpenFactory, Movilab) et [Sylvia Fredriksson](https://www.sylviafredriksson.net/) (Open Knowledge, Cité du Design), plusieurs dizaines d'acteurs du [réseau "TILIOS"](https://www.facebook.com/groups/tilios/) - avec l'appui des [designers de RDC](https://vimeo.com/200720088) - se sont fédérés en [_**World Trust Foundation**_](https://www.flickr.com/photos/sylviafredriksson/albums/72157678188984663) pour s’exprimer du 9 mars au 9 avril 2017 sur la [**10e Biennale Internationale de Design de Saint-Etienne**](http://www.biennale-design.com/saint-etienne/2017/fr/home/) consacrée aux "mutations du travail". Le défi : montrer les **processus** **Tiers-Lieux** et proposer une "codification" (empirique et modifiable) au service de leur déploiement et pérennisation partout où le contexte de transition le nécessite.
 
-Le corpus réuni dans ce répertoire doit être considéré comme un " collage", i.e.  un ensemble d'idées,  de définitions, d'extraits de texte, de témoignages, etc. qui peuvent être agencés de multiples façons - en fonction du contexte et des parties prenantes - pour mettre en récit / forme ce que font au quotidien les protagonistes des Tiers-Lieux. 
+Le corpus réuni dans ce répertoire doit être considéré comme un " collage", i.e.  un ensemble d'idées,  de définitions, d'extraits de texte, de témoignages, etc. qui peuvent être agencés de multiples façons - en fonction du contexte et des parties prenantes - pour mettre en récit / forme ce que font au quotidien les curieux dans et avec les Tiers-Lieux. 
 
 NB : une déclinaison du corpus exite sur [GitBook](https://nicolasloubet.gitbooks.io/fork-the-world) pour faciliter la visualisation sous la forme d'un fichier PDF.
+
+
+_Si vous souhaitez un coup de pouce pour remixer / enrichir ce corpus, contactez _[_Nicolas_](https://github.com/nicolasloubet)_ : nicolas\[dot\]loubet\[at\]protonmail\[dot\]com_
 
 ---
 
@@ -46,5 +49,4 @@ Voici les documents nécessaires minimales pour répliquer / reproduire / enrich
 
 ---
 
-_Si vous souhaitez remixer ce corpus pour une adaptation de l'exposition, contactez _[_Nicolas_](https://github.com/nicolasloubet)_ : nicolas\[dot\]loubet\[at\]protonmail\[dot\]com_
 
