@@ -1,12 +1,14 @@
-# Bienvenue
+# Exposition
 
-Si vous consultez cette page, c'est que vous êtes lié.e, de près ou de loin, à l'univers des '[Tiers-Lieux](http://movilab.org/index.php?title=Définition_des_Tiers_Lieux)' \(espaces de coworking, ateliers de co-réparation,  squats artistiques auto-gérés, jardins partagés, etc.\). En bref, ce "GitBook" est UNE mise en forme des [textes](https://docs.google.com/document/u/1/d/11zSChvogyU0hkYCUwIkYdCknmw7_u45503250YfT71U/edit?ts=58861959) rédigés par/pour l'Expérience Tiers-Lieux "[_Fork The World_](https://archive.is/gkBhw)" de la [Biennale de Design de Saint-Etienne](http://www.biennale-design.com/saint-etienne/2017/fr/home/) \(9 mars - 9 avril 2017\) consacrée aux **mutations du travail**. Ils sont régis par les termes de la [**licence Creative Commons BY-SA 4.0**](https://creativecommons.org/licenses/by-sa/4.0/) et ont été co-rédigés par un réseau d'acteurs des Tiers-Lieux, sous l'impulsion de [Yoann Duriaux](http://www.yoann-duriaux.fr/) \("super concierge", [Movilab](http://movilab.org)\),  [Sylvia Fredriksson](https://www.sylviafredriksson.net/) \(chercheuse, [Cité du Design](http://www.citedudesign.com/fr/la-recherche/)\) et [Juliette Gelli](http://juliettegelli.fr/Juliette-Gelli) \(designeuse, [collectif RDC](https://vimeo.com/200720088)\).
+Sous l’impulsion des "co-commissaires" [Yoann Duriaux](http://www.yoann-duriaux.fr/) (OpenFactory, Movilab) et [Sylvia Fredriksson](https://www.sylviafredriksson.net/) (Open Knowledge, Cité du Design), plusieurs acteurs du [réseau TILIOS](https://www.facebook.com/groups/tilios/) - avec l'appui des [designers de RDC](https://vimeo.com/200720088) - se sont fédérés en [_**World Trust Foundation**_](https://www.flickr.com/photos/sylviafredriksson/albums/72157678188984663) pour s’exprimer du 9 mars au 9 avril 2017 sur la [**10e Biennale de Design de Saint-Etienne**](http://www.biennale-design.com/saint-etienne/2017/fr/home/) consacrée aux "mutations du travail". Le défi : montrer les **processus** **Tiers-Lieux** et proposer une "codification" (empirique et modifiable) au service de leur déploiement et pérennisation partout où le contexte de transition le nécessite.
 
-# À propos
+Le corpus réuni oit être considéré comme un " collage" modulaire, i.e.  un ensemble d'idées,  de définitions, d'extraits de texte, de témoignages, etc. qui peuvent être agencés de multiples façons - en fonction du contexte et des parties prenantes - pour mettre en perspective ce que font les protagonistes des Tiers-Lieux (ce GitBook permet une visualiation du corpus sous la forme d'un fichier PDF).
 
-Ce corpus doit être considéré comme un " collage", i.e.  un ensemble d'idées,  de définitions, d'extraits de texte, de témoignages, etc. qui peuvent être agencés de multiples façons - en fonction du contexte et des parties prenantes - pour mettre en perspective ce que font les protagonistes des Tiers-Lieux.
+---
 
-Les objectifs sont : \(1\) de permettre à celles/ceux qui vivent les Tiers-Lieux de **mettre des mots** sur ce qu'ils vivent \(2\) de soutenir la **formulation de récits** \(de\) Tiers-Lieux \(3\) d'engager un **essaimage actif** de l'expérience _Fork The World_ avec le réseau. En filigrane, l'intention est de tester empiriquement l'hypothèse selon laquelle le fonctionnement des Tiers-Lieux est régi par **5 propriétés fondamentales** :
+## Objectifs
+
+Les objectifs sont : (1) de permettre à celles/ceux qui vivent les Tiers-Lieux de **mettre des mots** sur ce qu'ils vivent \(2\) de soutenir la **formulation de récits** (de) Tiers-Lieux (3) d'engager un **essaimage actif** de l'expérience _Fork The World_ avec le réseau. En filigrane, l'intention est de tester empiriquement l'hypothèse selon laquelle le fonctionnement des Tiers-Lieux est régi par **5 propriétés fondamentales** :
 
 1. [Configuration sociale](https://nicolasloubet.gitbooks.io/fork-the-world/content/chapter4/configuration-sociale.html)
 2. [Patrimoine commun](https://nicolasloubet.gitbooks.io/fork-the-world/content/chapter4/patrimoine-commun.html)
@@ -14,9 +16,9 @@ Les objectifs sont : \(1\) de permettre à celles/ceux qui vivent les Tiers-Lieu
 4. [Émancipation par le faire](https://nicolasloubet.gitbooks.io/fork-the-world/content/chapter4/emancipation-par-le-faire.html)
 5. [Résilience et modularité](https://nicolasloubet.gitbooks.io/fork-the-world/content/chapter4/resilience-et-modularite.html)
 
-NB : pour accompagner l'essaimage, un '[label tiers-lieux](https://github.com/nicolasloubet/auto-label-tiers-lieux) \(attribué entre pairs\) est proposé. Il repose sur un diagnostic des 5 propriétés d'organisation et sera porté \(dans un premier temps\) sur [Communecter](https://www.communecter.org).
+NB : pour accompagner l'essaimage, un '[label tiers-lieux](https://github.com/nicolasloubet/auto-label-tiers-lieux) \(attribué entre pairs\) est soumis. Il repose sur un diagnostic de **5 propriétés d'organisation** et sera porté \(dans un premier temps\) sur [Communecter](https://www.communecter.org).
 
-# Essaimage
+## Essaimage
 
 Plusieurs organismes ont exprimé leur souhait d'adapter / enrichir le corpus. La première étape étape du processus de transmission va se traduire par des temps de restitution sur plusieurs manifestations.
 
@@ -27,9 +29,9 @@ Plusieurs organismes ont exprimé leur souhait d'adapter / enrichir le corpus. L
 * [La rencontre des Tiers-Lieux Normands](https://docs.google.com/document/d/1soe0gg5ZOcbTIm7yJ5mscetj3qsBp850ewDoqcPYbkU/edit) \(Caen, 15 Juin 2017\)
 * [Le kick-off de la Centrifugeuse](https://www.gitbook.com/book/nicolasloubet/fork-the-world/edit#) \(Paris-Est, 21Juin 2017\)
 
-# Ressources
+## Ressources
 
-Voici les ressources nécessaires minimales pour répliquer / reproduire /enrichir le corpus.
+Voici les documents nécessaires minimales pour répliquer / reproduire / enrichir le corpus.
 
 * [Fichiers du GitBook \(version du 2 mai 2017\)](https://frama.link/BiennaleDesign17-ForkTheWorld-GitBook)
 * [Photos de l'expo sur la Biennale de Design](https://frama.link/BiennaleDesign17-ForkTheWorld-Exposition)
@@ -42,5 +44,5 @@ Voici les ressources nécessaires minimales pour répliquer / reproduire /enrich
 
 ---
 
-_Si vous souhaitez remixer ce GitBook, contactez _[_Nicolas_](https://github.com/nicolasloubet)_ : nicolas\[dot\]loubet\[at\]protonmail\[dot\]com_
+_Si vous souhaitez remixer ce corpus pour une adaptation de l'exposition, contactez _[_Nicolas_](https://github.com/nicolasloubet)_ : nicolas\[dot\]loubet\[at\]protonmail\[dot\]com_
 
