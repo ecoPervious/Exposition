@@ -20,7 +20,7 @@ Les objectifs des expositions Fork The World sont : (1) de permettre à celles/c
 4. [Émancipation par le faire](https://github.com/WorldTrustFoundation/Exposition/blob/master/chapter4/emancipation-par-le-faire.md)
 5. [Résilience et modularité](https://github.com/WorldTrustFoundation/Exposition/blob/master/chapter4/resilience-et-modularite.md)
 
-NB : pour accompagner l'essaimage, un '[label tiers-lieux](https://github.com/nicolasloubet/auto-label-tiers-lieux) \(attribué par / entre les pairs) est soumis à expérimentation. Il repose sur le diagnostic des **5 propriétés d'organisation** (qui ont émergé pour la 1ère version de l'exposition, pour la Biennale Internationale de Design Saint-Etienne en 2017). Ce label sera porté (pour commencer) sur le système [Communecter](https://www.communecter.org).
+NB : pour accompagner l'essaimage, un '[label tiers-lieux](https://github.com/nicolasloubet/auto-label-tiers-lieux) \(attribué par / entre les pairs) est soumis à expérimentation. Il repose sur le diagnostic des **5 propriétés d'organisation** (qui ont émergé pour la 1ère version de l'exposition, pour la Biennale Internationale de Design Saint-Etienne en 2017). Ce label sera porté (pour commencer) sur [Communecter](https://www.communecter.org).
 
 ## Essaimage
 
@@ -35,7 +35,7 @@ Plusieurs organismes ont exprimé leur souhait d'adapter / enrichir le corpus. L
 
 ## Ressources
 
-Voici les documents nécessaires minimales pour répliquer / reproduire / enrichir le corpus.
+Voici l'enesemble des documents nécessaires minimales pour répliquer / reproduire / enrichir l'exposition Fork The World.
 
 * [Fichiers du GitBook \(version du 2 mai 2017\)](https://frama.link/BiennaleDesign17-ForkTheWorld-GitBook)
 * [Photos de l'expo sur la Biennale de Design](https://frama.link/BiennaleDesign17-ForkTheWorld-Exposition)
