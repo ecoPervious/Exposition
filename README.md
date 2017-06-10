@@ -24,9 +24,7 @@ NB : pour accompagner l'essaimage, un '[label tiers-lieux](https://github.com/ni
 
 ## Essaimage
 
-Plusieurs organismes ont exprimé leur souhait d'adapter / enrichir le corpus. La première étape étape du processus de transmission s'est traduite par une série de retours d'expériences (de Mai à Juin 2017).
-
-va se traduire par des temps de restitution sur plusieurs manifestations.
+Plusieurs organisations ont exprimé leur souhait d'accueillir et enrichir l'expsotion Fork The World. La première étape étape du processus de transmission s'est traduite par une série de retours d'expériences entre Mai et Juin 2017. 
 
 * [Le FabLab Festival - Make Europe](https://www.gitbook.com/book/nicolasloubet/fork-the-world/edit#) \(Toulouse, 11-14 Mai 2017\)
 * [La journée Gouvernance de l'Hotel Pasteur](https://bimestriel.framapad.org/p/GouvernancePasteur) \(Rennes, 19 Mai 2017\)
