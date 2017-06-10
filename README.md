@@ -20,7 +20,7 @@ Les objectifs des expositions Fork The World sont : (1) de permettre à celles/c
 4. [Émancipation par le faire](https://github.com/WorldTrustFoundation/Exposition/blob/master/chapter4/emancipation-par-le-faire.md)
 5. [Résilience et modularité](https://github.com/WorldTrustFoundation/Exposition/blob/master/chapter4/resilience-et-modularite.md)
 
-NB : pour accompagner l'essaimage, un '[label tiers-lieux](https://github.com/nicolasloubet/auto-label-tiers-lieux) \(attribué entre pairs\) est soumis. Il repose sur un diagnostic de **5 propriétés d'organisation** et sera porté \(dans un premier temps\) sur [Communecter](https://www.communecter.org).
+NB : pour accompagner l'essaimage dans le réseau, un '[label tiers-lieux](https://github.com/nicolasloubet/auto-label-tiers-lieux) \(attribué par les pairs) est soumis à expérience. Il repose sur le diagnostic des **5 propriétés d'organisation** citées ci-dessus et sera porté (dans un premier temps) sur [Communecter](https://www.communecter.org).
 
 ## Essaimage
 
