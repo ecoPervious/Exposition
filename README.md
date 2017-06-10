@@ -1,12 +1,14 @@
 # Exposition
 
-Sous l’impulsion des "co-commissaires" [Yoann Duriaux](http://www.yoann-duriaux.fr/) (OpenFactory, Movilab) et [Sylvia Fredriksson](https://www.sylviafredriksson.net/) (Open Knowledge, Cité du Design), plusieurs dizaines d'acteurs du [réseau "TILIOS"](https://www.facebook.com/groups/tilios/) - avec l'appui des [designers de RDC](https://vimeo.com/200720088) - se sont fédérés en [_**World Trust Foundation**_](https://www.flickr.com/photos/sylviafredriksson/albums/72157678188984663) pour s’exprimer du 9 mars au 9 avril 2017 sur la [**10e Biennale Internationale de Design de Saint-Etienne**](http://www.biennale-design.com/saint-etienne/2017/fr/home/) consacrée aux "mutations du travail". Le défi : montrer les **processus** **Tiers-Lieux** et proposer une "codification" (empirique et modifiable) au service de leur déploiement et pérennisation partout où le contexte de transition le nécessite.
+Sous l’impulsion des "co-commissaires" [Yoann Duriaux](http://www.yoann-duriaux.fr/) (OpenFactory, Movilab) et [Sylvia Fredriksson](https://www.sylviafredriksson.net/) (Open Knowledge, Cité du Design), plusieurs dizaines d'acteurs du [réseau "TILIOS"](https://www.facebook.com/groups/tilios/) - avec l'appui des [designers de RDC](https://vimeo.com/200720088) - se sont fédérés en [_**World Trust Foundation**_](https://www.flickr.com/photos/sylviafredriksson/albums/72157678188984663) pour s’exprimer du 9 mars au 9 avril 2017 sur la [**10e Biennale Internationale de Design de Saint-Etienne**](http://www.biennale-design.com/saint-etienne/2017/fr/home/) consacrée aux **mutations du travail**. Le défi : montrer les **processus** **Tiers-Lieux** et proposer une "codification" (empirique et modifiable) au service de leur déploiement et pérennisation partout où le contexte de transition le nécessite.
 
-Le corpus réuni dans ce répertoire doit être considéré comme un " collage", i.e.  un ensemble d'idées,  de définitions, d'extraits de texte, de témoignages, etc. qui peuvent être agencés de multiples façons - en fonction du contexte et des parties prenantes - pour mettre en récit / forme ce que font au quotidien les curieux dans et avec les Tiers-Lieux. 
+Le corpus (régi par les termes juridiques de la [licence Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)) rassemblée dans ce répertoire doit être considéré comme un " collage", i.e.  un ensemble d'idées,  de définitions, d'extraits de texte, de témoignages, etc. qui peuvent être agencés de multiples façons - en fonction du contexte et des parties prenantes - pour mettre en récit / forme ce que font au quotidien les curieux dans et avec les Tiers-Lieux. 
 
 NB : une déclinaison du corpus existe sur le site [GitBook](https://nicolasloubet.gitbooks.io/fork-the-world) pour faciliter la visualisation sous la forme d'un ebook. 
 
 _Si vous souhaitez un appui pour remixer ce corpus, contactez _[_Nicolas_](https://github.com/nicolasloubet)_ : nicolas\[dot\]loubet\[at\]protonmail\[dot\]com_
+
+
 
 ---
 
@@ -31,6 +33,7 @@ Plusieurs organisations ont exprimé leur souhait d'accueillir et enrichir l'exp
 * [Le Grand Ramdam des Tiers-Lieux](http://grandramdam.net) (Poitiers, 1-2 Juin 2017)
 * [Le Forum-Camping des Grands Voisins](https://drive.google.com/file/d/0BwTBzng3rgljX1ZLR1dYNWJROW8/view) (Paris, 14-15 Juin 2017)
 * [La rencontre des Tiers-Lieux Normands](https://drive.google.com/file/d/0B5vI-7TvbGF8dlNnblh4SDFaeGc/view?usp=sharing) (Caen, 15 juin 2017) 
+
 ## Ressources
 
 Voici l'enesemble des documents nécessaires minimales pour reproduire / enrichir l'exposition Fork The World.
