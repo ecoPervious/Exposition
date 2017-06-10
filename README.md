@@ -12,7 +12,7 @@ _Si vous souhaitez un appui pour remixer ce corpus, contactez _[_Nicolas_](https
 
 ## Objectifs
 
-Les objectifs des expositions Fork The World sont : (1) de permettre à celles/ceux qui vivent les Tiers-Lieux de **mettre des mots** sur ce qu'ils vivent (2) de soutenir la **formulation de récits** (de) Tiers-Lieux (3) d'engager un **essaimage actif** de l'expérience _Fork The World_ avec le réseau TILIOS (Tiers-Lieux Libres et Open Sources). En filigrane, l'intention est de tester empiriquement l'hypothèse selon laquelle le fonctionnement des Tiers-Lieux est régi par **5 propriétés d'organisation** :
+Les objectifs des expositions Fork The World sont : (1) de permettre à celles/ceux qui vivent les Tiers-Lieux de **mettre des mots** sur ce qu'ils vivent (2) de soutenir la **formulation de récits** (de) Tiers-Lieux (3) d'engager un **essaimage** de l'expérience _Fork The World_ avec le réseau Tiers-Lieux TILIOS. En filigrane, l'intention est de tester empiriquement l'hypothèse selon laquelle le fonctionnement des Tiers-Lieux est régi par **5 propriétés fondamentales d'organisation** :
 
 1. [Configuration sociale](https://github.com/WorldTrustFoundation/Exposition/blob/master/chapter4/configuration-sociale.mdl)
 2. [Patrimoine commun](https://github.com/WorldTrustFoundation/Exposition/blob/master/chapter4/patrimoine-commun.md)
