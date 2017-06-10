@@ -4,11 +4,13 @@ Sous l’impulsion des "co-commissaires" [Yoann Duriaux](http://www.yoann-duriau
 
 Le corpus (régi par les termes juridiques de la [licence Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)) rassemblée dans ce répertoire doit être considéré comme un " collage", i.e.  un ensemble d'idées,  de définitions, d'extraits de texte, de témoignages, etc. qui peuvent être agencés de multiples façons - en fonction du contexte et des parties prenantes - pour mettre en récit / forme ce que font au quotidien les curieux dans et avec les Tiers-Lieux. 
 
+```!
+ATTENTION : ce corpus ne REMPLACE pas mais COMPLÈTE (modestement) la connaissance sur les  tiers-lieux accesissible sur le site encyclopédique [Movilab](http://movilab.org/index.php?title=Accueil). 
+```
+
 NB : une déclinaison du corpus existe sur le site [GitBook](https://nicolasloubet.gitbooks.io/fork-the-world) pour faciliter la visualisation sous la forme d'un ebook. 
 
 _Si vous souhaitez un appui pour remixer ce corpus, contactez _[_Nicolas_](https://github.com/nicolasloubet)_ : nicolas\[dot\]loubet\[at\]protonmail\[dot\]com_
-
-
 
 ---
 
