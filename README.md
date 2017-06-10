@@ -4,8 +4,7 @@ Sous l’impulsion des "co-commissaires" [Yoann Duriaux](http://www.yoann-duriau
 
 Le corpus réuni dans ce répertoire doit être considéré comme un " collage", i.e.  un ensemble d'idées,  de définitions, d'extraits de texte, de témoignages, etc. qui peuvent être agencés de multiples façons - en fonction du contexte et des parties prenantes - pour mettre en récit / forme ce que font au quotidien les curieux dans et avec les Tiers-Lieux. 
 
-NB : une déclinaison du corpus exite sur [GitBook](https://nicolasloubet.gitbooks.io/fork-the-world) pour faciliter la visualisation sous la forme d'un fichier PDF.
-
+NB : une déclinaison du corpus existe sur [GitBook](https://nicolasloubet.gitbooks.io/fork-the-world) pour faciliter la visualisation sous la forme d'un fichier PDF.
 
 _Si vous souhaitez un appui pour remixer ce corpus, contactez _[_Nicolas_](https://github.com/nicolasloubet)_ : nicolas\[dot\]loubet\[at\]protonmail\[dot\]com_
 
@@ -13,7 +12,7 @@ _Si vous souhaitez un appui pour remixer ce corpus, contactez _[_Nicolas_](https
 
 ## Objectifs
 
-Les objectifs sont : (1) de permettre à celles/ceux qui vivent les Tiers-Lieux de **mettre des mots** sur ce qu'ils vivent \(2\) de soutenir la **formulation de récits** (de) Tiers-Lieux (3) d'engager un **essaimage actif** de l'expérience _Fork The World_ avec le réseau. En filigrane, l'intention est de tester empiriquement l'hypothèse selon laquelle le fonctionnement des Tiers-Lieux est régi par **5 propriétés fondamentales** :
+Les objectifs des expositions Fork The World sont : (1) de permettre à celles/ceux qui vivent les Tiers-Lieux de **mettre des mots** sur ce qu'ils vivent \(2\) de soutenir la **formulation de récits** (de) Tiers-Lieux (3) d'engager un **essaimage actif** de l'expérience _Fork The World_ avec le réseau. En filigrane, l'intention est de tester empiriquement l'hypothèse selon laquelle le fonctionnement des Tiers-Lieux est régi par **5 propriétés fondamentales** :
 
 1. [Configuration sociale](https://nicolasloubet.gitbooks.io/fork-the-world/content/chapter4/configuration-sociale.html)
 2. [Patrimoine commun](https://nicolasloubet.gitbooks.io/fork-the-world/content/chapter4/patrimoine-commun.html)
@@ -46,7 +45,3 @@ Voici les documents nécessaires minimales pour répliquer / reproduire / enrich
 * [Compilation des photographies de la Biennale](https://www.sharypic.com/yii1053jns2jfnd6/all)
 * [Compilation des vidéos _Design Moi 1 Tiers-Lieu\(x\)_](https://www.youtube.com/channel/UCjGNiNS1hk23M0vAQCE_fIg/videos)
 * [Groupe pour échanger avec les 'co-commissaires'](https://telegram.me/forktheworld)
-
----
-
-
