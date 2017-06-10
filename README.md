@@ -7,7 +7,7 @@ Le corpus réuni dans ce répertoire doit être considéré comme un " collage",
 NB : une déclinaison du corpus exite sur [GitBook](https://nicolasloubet.gitbooks.io/fork-the-world) pour faciliter la visualisation sous la forme d'un fichier PDF.
 
 
-_Si vous souhaitez un coup de pouce pour remixer / enrichir ce corpus, contactez _[_Nicolas_](https://github.com/nicolasloubet)_ : nicolas\[dot\]loubet\[at\]protonmail\[dot\]com_
+_Si vous souhaitez un appui pour remixer ce corpus, contactez _[_Nicolas_](https://github.com/nicolasloubet)_ : nicolas\[dot\]loubet\[at\]protonmail\[dot\]com_
 
 ---
 
