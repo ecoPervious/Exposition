@@ -34,7 +34,7 @@ Plusieurs organisations ont exprimé leur souhait d'accueillir et enrichir l'exp
 
 ## Ressources
 
-Voici l'enesemble des documents nécessaires minimales pour répliquer / reproduire / enrichir l'exposition Fork The World.
+Voici l'enesemble des documents nécessaires minimales pour reproduire / enrichir l'exposition Fork The World.
 
 * [Fichiers du GitBook \(version du 2 mai 2017\)](https://frama.link/BiennaleDesign17-ForkTheWorld-GitBook)
 * [Photos de l'expo sur la Biennale de Design](https://frama.link/BiennaleDesign17-ForkTheWorld-Exposition)
