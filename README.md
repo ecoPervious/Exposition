@@ -41,7 +41,7 @@ Voici l'enesemble des documents nécessaires minimales pour répliquer / reprodu
 * [Photos de l'expo sur la Biennale de Design](https://frama.link/BiennaleDesign17-ForkTheWorld-Exposition)
 * [Version initiale des textes de l'expo \(format .doc\)](https://frama.link/BiennaleDesign17-ForkTheWorld-Expo)
 * [Version des textes de l'expo au format .odt](https://frama.link/BiennaleDesign17-ForkTheWorld-Textes)
-* [Carnet de bord de l'expérience _Fork The World_](http://frama.link/BiennaleDesign17-ForkTheWorld)
+* [Carnet de bord de l'expérience _Fork The World_](https://github.com/WorldTrustFoundation/Coordination/blob/master/Biennale-Design-2017/forktheworld_coordination_biennale-2017.md)
 * [Compilation des photographies de la Biennale](https://www.sharypic.com/yii1053jns2jfnd6/all)
 * [Compilation des vidéos _Design Moi 1 Tiers-Lieu\(x\)_](https://www.youtube.com/channel/UCjGNiNS1hk23M0vAQCE_fIg/videos)
 * [Groupe pour échanger avec les 'co-commissaires'](https://telegram.me/forktheworld)
