@@ -28,8 +28,8 @@ NB : pour accompagner l'essaimage, un '[label tiers-lieux](https://github.com/ni
 
 Plusieurs organisations ont exprimé leur souhait d'accueillir et enrichir l'expsotion Fork The World. La première étape étape du processus de transmission s'est traduite par une série de témoignages lors d'événements entre Mai et Juin 2017. 
 
-* [Le FabLab Festival - Make Europe](https://www.gitbook.com/book/nicolasloubet/fork-the-world/edit#) (Toulouse, 11-14 Mai 2017)
-* [La journée Gouvernance de l'Hotel Pasteur](https://bimestriel.framapad.org/p/GouvernancePasteur) (Rennes, 19 Mai 2017)
+* [Le FabLab Festival - Make Europe](http://www.fablabfestival.fr) (Toulouse, 11-14 Mai 2017)
+* [La journée Gouvernance de l'Hotel Pasteur](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/pasteur19mai.md) (Rennes, 19 Mai 2017)
 * [Le Grand Ramdam des Tiers-Lieux](http://grandramdam.net) (Poitiers, 1-2 Juin 2017)
 * [Le Forum-Camping des Grands Voisins](https://drive.google.com/file/d/0BwTBzng3rgljX1ZLR1dYNWJROW8/view) (Paris, 14-15 Juin 2017)
 * [La rencontre des Tiers-Lieux Normands](https://drive.google.com/file/d/0B5vI-7TvbGF8dlNnblh4SDFaeGc/view?usp=sharing) (Caen, 15 juin 2017) 
