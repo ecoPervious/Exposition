@@ -22,17 +22,28 @@ Les objectifs des expositions Fork The World sont : (1) de permettre à celles/c
 4. [Émancipation par le faire](https://github.com/WorldTrustFoundation/Exposition/blob/master/chapter4/emancipation-par-le-faire.md)
 5. [Résilience et modularité](https://github.com/WorldTrustFoundation/Exposition/blob/master/chapter4/resilience-et-modularite.md)
 
-NB : pour accompagner l'essaimage, un '[label tiers-lieux](https://github.com/nicolasloubet/auto-label-tiers-lieux) \(attribué par / entre les pairs) est soumis à expérimentation. Il repose sur le diagnostic des **5 propriétés d'organisation** (qui ont émergé pour la 1ère version de l'exposition, pour la Biennale Internationale de Design Saint-Etienne en 2017). Ce label sera porté (pour commencer) sur [Communecter](https://www.communecter.org).
+NB : pour accompagner l'essaimage, un '[**label tiers-lieux**](https://github.com/nicolasloubet/auto-label-tiers-lieux) \(attribué entre pairs\) est proposé. Il repose sur le diagnostic des 5 propriétés et sera porté \(dans un premier temps\) par [Communecter](https://www.communecter.org). Cette proposition s'inscrit plus globalement dans une réflexion sur les [**marques collectives de certification**](https://pad.lamyne.org/s/B1lykDm3b).
 
-## Essaimage
+# Essaimage
 
-Plusieurs organisations ont exprimé leur souhait d'accueillir et enrichir l'expsotion Fork The World. La première étape étape du processus de transmission s'est traduite par une série de témoignages lors d'événements entre Mai et Juin 2017. 
+Plusieurs organismes ont exprimé leur souhait d'adapter et/ou enrichir le corpus.
 
-* [Le FabLab Festival - Make Europe](http://www.fablabfestival.fr) (Toulouse, 11-14 Mai 2017)
-* [La journée Gouvernance de l'Hotel Pasteur](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/pasteur19mai.md) (Rennes, 19 Mai 2017)
-* [Le Grand Ramdam des Tiers-Lieux](http://grandramdam.net) (Poitiers, 1-2 Juin 2017)
-* [Le Forum-Camping des Grands Voisins](https://drive.google.com/file/d/0BwTBzng3rgljX1ZLR1dYNWJROW8/view) (Paris, 14-15 Juin 2017)
-* [La rencontre des Tiers-Lieux Normands](https://drive.google.com/file/d/0B5vI-7TvbGF8dlNnblh4SDFaeGc/view?usp=sharing) (Caen, 15 juin 2017) 
+La **1ère étape** du processus s’est traduite par des **restitutions sur des événements** :
+
+* [Le FabLab Festival - Make Europe](http://www.fablabfestival.fr) \(Toulouse, 11-14 Mai 2017\)
+* [La journée Gouvernance de l'Hotel Pasteur](https://bimestriel.framapad.org/p/GouvernancePasteur) \(Rennes, 19 Mai 2017\)
+* [Le Grand Ramdam des Tiers-Lieux](http://grandramdam.net) \(Poitiers, 1-2 Juin 2017\)
+* [Le Forum Camping des Grands Voisins](https://drive.google.com/file/d/0BwTBzng3rgljX1ZLR1dYNWJROW8/view) \(Paris, 14-15 Juin 2017\)
+* [La rencontre des Tiers-Lieux Normands](https://docs.google.com/document/d/1soe0gg5ZOcbTIm7yJ5mscetj3qsBp850ewDoqcPYbkU/edit) \(Caen, 15 Juin 2017\)
+
+La **2ème étape** prend la forme de **temps de contribution** & **processus d’hybridation** :
+
+* [Cours à l’École Camondo \(Paul Marchesseau\)](https://drive.google.com/drive/u/1/folders/0B875Hm4ydSyGRWQ1S2FwTEZmMlU)
+* [Expo. à la Cité Descartes \(Caroline Bessault\)](http://frama.link/tiers-lieux-cite-descartes)
+* [Visite virtuelle aux ROUMICs \(Sébastien Plihon\)](http://www.roumics.com/les-roumics/vivre-des-communs/18-nov.html)
+* [Game Jam avec CommUnJeu \(Sébastien Kurt\)](https://pad.lamyne.org/s/r1J_kbZnb)
+* [Hackathon Open Democray Now \(Pierre Lalu\)](https://pad.lamyne.org/s/B1AWfTg3-)
+* [Exposition Titre à Venir \(David Bartholomeo\)](https://hackmd.io/s/SJJCcK81W)
 
 ## Ressources
 
